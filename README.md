@@ -6,12 +6,18 @@
 Web Developer
 -------------
 
-I've have been learning a code from 3 year, I've worked on laravel ,React ,Strapi and SQL
+I've have been learning a code from 4 year, I've worked on PHP,JavaScript,Next Js laravel ,React ,Strapi and SQL 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [devaman091996@gmail.com](mailto:devaman091996@gmail.com)
-* 🧠  I'm learning a new JS Framework
 * 🤝  I'm open to collaborating on for multiple technology projects
+
+  
+- 🔭 I’m currently working on PHP,LARAVEL,REACT,MYSQL
+- 🌱 I’m currently learning  NEXT JS, TYPESCRIPT,NODE JS
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
 
 <a href="https://www.github.com/Amanj881" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Amanj881?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a>
@@ -58,20 +64,7 @@ src="https://img.shields.io/github/followers/Amanj881?logo=github&style=for-the-
 <div width="100%" align="center"><a href="https://github.com/Amanj881/img-inf-scroll-virtualized Public" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Amanj881&repo=img-inf-scroll-virtualized Public&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-<!--
-**devAmanjain/devAmanjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
--->
+
