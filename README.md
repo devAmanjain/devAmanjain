@@ -15,8 +15,7 @@ I've have been learning a code from 4 year, I've worked on PHP,JavaScript,Next J
   
 - 🔭 I’m currently working on PHP,LARAVEL,REACT,MYSQL
 - 🌱 I’m currently learning  NEXT JS, TYPESCRIPT,NODE JS
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 
 
 <a href="https://www.github.com/Amanj881" target="_blank" rel="noreferrer"><img
