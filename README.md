@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **devaman091996@gmail.com**
 
-### Blogs posts
+<!--  ### Blogs posts  -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
