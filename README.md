@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Jain</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Next Js,TypeScript ,Node Js**
+// - 🌱 I’m currently learning **Next Js,TypeScript ,Node Js**
 
 - 👨‍💻 All of my projects are available at [https://next-portfolio-52g6ql0id-amanj881.vercel.app/](https://next-portfolio-52g6ql0id-amanj881.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@amanj0314](https://medium.com/@amanj0314)
 
-- 💬 Ask me about **Php,Laravel,JavaScript,React JS, MYSQL**
+- 💬 Ask me about **Php,Laravel,JavaScript,React JS,Node Js,MYSQL**
 
 - 📫 How to reach me **devaman091996@gmail.com**
 
